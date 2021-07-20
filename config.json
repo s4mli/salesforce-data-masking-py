@@ -1,0 +1,28 @@
+{
+    "tags": {
+        "flybuys:itops:environment": "engineering",
+        "flybuys:itops:asset": "the_trade_desk_integration",
+        "flybuys:itops:initiativeid": "TradeDesk 1.0",
+        "flybuys:itops:initiativename": "TradeDesk 1.0"
+    },
+    "eng": {
+        "namespace": "eng",
+        "account": "426060458839",
+        "region": "ap-southeast-2"
+    },
+    "dev": {
+        "namespace": "dev",
+        "account": "857257675470",
+        "region": "ap-southeast-2"
+    },
+    "test": {
+        "namespace": "dev",
+        "account": "645744748346",
+        "region": "ap-southeast-2"
+    },
+    "prod": {
+        "namespace": "dev",
+        "account": "615299568992",
+        "region": "ap-southeast-2"
+    }
+}
